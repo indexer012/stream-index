@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Visit-StreamIndex-blue?style=for-the-badge)](https://streamindex.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**[Visit StreamIndex](https://streamindex.org)** | **[Submit a Site](https://streamindex.org/submit)**
+**[Visit StreamIndex](https://streamindex.org)** | **[Submit a Site](https://streamindex.org/submit.html)**
 
 </div>
 
