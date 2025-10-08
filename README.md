@@ -93,7 +93,7 @@ We welcome contributions from the community! StreamIndex thrives on user submiss
 
 ### How to Contribute
 
-1. **Submit a Site** - Know a streaming platform we're missing? [Submit it here](https://stramindex.org/submit.html)
+1. **Submit a Site** - Know a streaming platform we're missing? [Submit it here](https://streamindex.org/submit.html)
 2. **Suggest Features** - Have ideas for improvement? We'd love to hear them!
 3. **Spread the Word** - Share StreamIndex with friends and communities
 
@@ -103,7 +103,7 @@ We welcome contributions from the community! StreamIndex thrives on user submiss
 
 <div align="center">
 
-### 🌐 **[Visit StreamIndex Now](https://streamindex,org)**
+### 🌐 **[Visit StreamIndex Now](https://streamindex.org)**
 
 Available on all devices - Desktop, Mobile, and Tablet
 
